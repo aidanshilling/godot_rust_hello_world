@@ -1,0 +1,1 @@
+/Users/aidan/ghq/github.com/aidanshilling/godot_rust_hello_world/rust-hello-world-lib/target/debug/librust_hello_world_lib.dylib: /Users/aidan/ghq/github.com/aidanshilling/godot_rust_hello_world/rust-hello-world-lib/src/lib.rs

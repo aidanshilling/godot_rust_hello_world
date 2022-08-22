@@ -1,0 +1,1 @@
+cargo:rerun-if-changed=/Users/aidan/.cargo/git/checkouts/godot-rust-aeb5973bc4fee4eb/8896727/gdnative-sys/godot_headers/gdnative_api.json
